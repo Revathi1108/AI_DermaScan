@@ -5,6 +5,21 @@
 **Domain: Computer Vision with Deep Learning**
 
 ---
+## Dataset and Model Access
+
+Due to GitHub file size limitations, the dataset and trained model are hosted on Google Drive.
+
+🔗 Google Drive (Dataset + Model + Resources):  
+https://drive.google.com/drive/folders/1lPJJUXUFN5l5FKDdyWRy6aueXRuILYPr?usp=sharing
+
+The folder contains:
+- Original Dataset
+- Augmented Dataset
+- Trained Model
+- Haarcascade files
+- Web application files
+
+
 
 ## 1. Project Title
 
@@ -153,3 +168,4 @@ It is not intended for medical diagnosis.
 ## 12. Conclusion
 DermalScan demonstrates an end-to-end computer vision pipeline integrated with deep learning.
 The project fulfills the objectives of facial skin aging analysis using a simple, interactive, and functional web application.
+
